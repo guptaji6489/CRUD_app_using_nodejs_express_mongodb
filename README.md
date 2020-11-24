@@ -8,4 +8,5 @@ install this
 5- nodemon
 
 to run write npm start
-then in browser ( localhost:5000/employee)
+
+then in any browser type ( localhost:5000/employee)
