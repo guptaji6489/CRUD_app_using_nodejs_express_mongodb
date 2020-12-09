@@ -7,6 +7,6 @@ install this
 4- express-hanlebars, 
 5- nodemon
 
-to run write npm start
+to run this project write npm start in cmd
 
 then in any browser type ( localhost:5000/employee)
